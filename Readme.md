@@ -39,8 +39,8 @@ sudo pacman -S python-gobject gtk3 gstreamer gst-plugins-base gst-plugins-good g
 
 1. Clonez ou téléchargez le projet :
 ```bash
-git clone <url_du_projet>
-cd vidio
+git clone https://github.com/Legambey/VidIO.git
+cd VidIO
 ```
 
 2. Assurez-vous que le script est exécutable :
