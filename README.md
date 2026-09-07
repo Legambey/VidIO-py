@@ -1,5 +1,11 @@
 # VidIO
 
+> ## ⚠️ Projet archivé
+>
+> Ce dépôt n'est plus maintenu et est conservé uniquement à titre d'archive.
+>
+> Le développement se poursuit sur **[Legambey/VidIO](https://github.com/Legambey/VidIO)**.
+
 Application de capture et visualisation vidéo/audio en temps réel utilisant GTK3 et GStreamer.
 
 ## Description
