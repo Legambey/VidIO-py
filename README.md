@@ -4,7 +4,13 @@
 >
 > Ce dépôt n'est plus maintenu et est conservé uniquement à titre d'archive.
 >
-> Le développement se poursuit sur **[Legambey/VidIO](https://github.com/Legambey/VidIO)**.
+> Le développement se poursuit sur **[Legambey/VidIO](https://github.com/Legambey/VidIO)**, une réécriture complète en Rust :
+>
+> - 🐧🪟 **Compatible Linux et Windows** (ce prototype Python était Linux uniquement)
+> - 📦 **Moins de dépendances système** à installer
+> - ⚡ **Bien plus performant**
+> - 🎨 **Davantage d'options graphiques**, avec prise en charge des **shaders**
+> - 💾 **Configuration persistante** entre les sessions
 
 Application de capture et visualisation vidéo/audio en temps réel utilisant GTK3 et GStreamer.
 
